@@ -10,5 +10,5 @@ def pluck(dictionary, key):
 	except TypeError, e:
 		raise TypeError('dictionary must be of type Array')
 	
-version = '0.1'
+version = '0.1.1'
 
