@@ -9,7 +9,7 @@ pluckpy
 .. image:: https://img.shields.io/travis/shridarpatil/pluckpy.svg
         :target: https://travis-ci.org/shridarpatil/pluckpy
 
-.. image:: https://readthedocs.org/projects/pluckpy/badge/?version=latest
+.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg
         :target: https://pluckpy.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
