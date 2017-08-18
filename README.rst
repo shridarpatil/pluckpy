@@ -18,8 +18,7 @@ pluckpy
      :alt: Updates
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
-
+Extract values from a list.
 
 * Free software: MIT license
 * Documentation: https://pluckpy.readthedocs.io.

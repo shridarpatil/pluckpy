@@ -28,7 +28,7 @@ test_requirements = [
 setup(
     name='pluckpy',
     version='0.1.2',
-    description="Exreacting values from a list.",
+    description="Extract values from a list.",
     long_description=readme + '\n\n' + history,
     author="Shridhar Patil",
     author_email='shridharpatil2792@gmail.com',
